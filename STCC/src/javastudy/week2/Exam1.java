@@ -1,4 +1,4 @@
-package javastudy.week2.exercise;
+package javastudy.week2;
 
 public class Exam1 {
 	public static void main(String[] args)

@@ -1,6 +1,6 @@
 import java.util.Scanner; // Scanner 패키지 import
 
-public class JavaStudy2 { //JavaStudy 클래스	
+public class JavaStudy3 { //JavaStudy 클래스	
 	public static void main(String[] args) { // main 메소드
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
